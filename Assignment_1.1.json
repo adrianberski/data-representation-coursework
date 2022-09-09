@@ -1,0 +1,28 @@
+﻿{
+  "library_catalogues": {
+    "book": [
+      {
+        "catalogue": "Technical books",
+        "ISBN": "b1234",
+        "Title": "Data Science from Scratch",
+        "Author": "William Gray"
+      },
+      {
+        "ISBN": "a7896",
+        "Title": "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",
+        "Author": "Wes McKinney"
+      },
+      {
+        "catalogue": "Cookery books",
+        "ISBN": "c2568",
+        "Title": "The Science of Spice: Understand Flavor Connections and Revolutionize Your Cooking",
+        "Author": "Dr. Stuart Farrimond"
+      },
+      {
+        "ISBN": "a7896",
+        "Title": "The Constance Spry Cookery Book",
+        "Author": "Rosemary Hume"
+      }
+    ]
+  }
+}
