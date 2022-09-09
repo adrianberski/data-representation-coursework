@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!--This XML file stores data for a library--> 
+<library_catalogues>
+   <book catalogue="Technical books">
+		<ISBN>b1234</ISBN>
+		<Title>Data Science from Scratch</Title>
+		<Author>William Gray</Author>
+   </book>
+   <book>
+		<ISBN>a7896</ISBN>
+		<Title>Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython</Title>
+		<Author>Wes McKinney</Author>
+	</book>
+	<book catalogue="Cookery books">
+		<ISBN>c2568</ISBN>
+		<Title>The Science of Spice: Understand Flavor Connections and Revolutionize Your Cooking</Title>
+		<Author>Dr. Stuart Farrimond</Author>
+	</book>
+	<book>
+		<ISBN>a7896</ISBN>
+		<Title>The Constance Spry Cookery Book</Title>
+		<Author>Rosemary Hume</Author>
+	</book> 
+</library_catalogues>
